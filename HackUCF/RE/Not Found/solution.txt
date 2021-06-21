@@ -1,0 +1,2 @@
+chmod +x babys_first_elf
+./babys_first_elf

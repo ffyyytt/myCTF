@@ -1,0 +1,1 @@
+http://ctf.hackucf.org:4001/?username=a&password=a&iamahacker=1&debug=1
